@@ -1,3 +1,5 @@
+![image](https://github.com/shubhmittal07/Online-Food-Store-App/assets/59731205/d7b2d1d0-774d-47e3-9931-c580691104c0)
+
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
